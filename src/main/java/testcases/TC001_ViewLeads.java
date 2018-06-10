@@ -12,7 +12,7 @@ public class TC001_ViewLeads extends ProjectMethods{
 		testCaseName="TC001_LoginAndLogout";
 		testDescription="login and logout in LeafTaps Application";
 		testNodes="Leads";
-		category="Smoke";
+		category="Regression";
 		authors="Gopi";
 		browserName="chrome";
 		dataSheetName="TC001";
